@@ -1,2 +1,9 @@
-# figura.github.io
-Figura Landing Page
+# Figura
+
+Welcome to audio-visual creative lab!
+
+## Digital Prints
+
+## Physical Prints
+
+## Music
