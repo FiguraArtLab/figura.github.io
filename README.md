@@ -6,6 +6,8 @@ Welcome to audio-visual creative lab!
 
 ## Digital Prints
 
+Visit ArtStation for my [digital prints](https://www.artstation.com/figuraartlab/prints?print_type=art_poster)!
+
 ## Physical Prints
 
 ## Music
