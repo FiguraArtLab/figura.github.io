@@ -1,6 +1,1 @@
-remote_theme: pages-themes/architect@v0.2.0
-
----
-layout: post
-title: Figura
----
+remote_theme: pages-themes/minimal@v0.2.0
