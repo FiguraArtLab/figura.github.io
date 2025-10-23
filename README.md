@@ -1,10 +1,6 @@
 
 # Figura
 
-<img src="https://github.com/user-attachments/assets/fa469a3d-bc55-414f-871d-d5981220689d" width="100">
-
-Welcome to audio-visual creative lab!
-
 ## Digital Work
 
 Visit Artstation for my [digital work](https://www.artstation.com/figuraartlab/store?tab=digital_product)

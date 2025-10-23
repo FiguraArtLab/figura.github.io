@@ -3,5 +3,11 @@ plugins:
 - jekyll-remote-theme 
 
 title: FIGURA
-description: Audio-visual creative lab
+description: > 
+  Welcome to my audio-visual creative lab - Figura! My background is in computer science with focus on computer graphics. 
+  During my PhD I have specialized in procedural modeling and rendering. 
+  Now, I am working in industry as Procedural Technical Artist.
+  Here, you can find more (art)work from me which is available for purchase.
+  My goal is to create work of asethetic value using advanced procedural modeling techniques.
+  NO AI/ML is used in any of my work.
 logo: "/assets/logo/Logo.jpg"
