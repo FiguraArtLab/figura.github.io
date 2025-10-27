@@ -1,5 +1,6 @@
 
 ## Visual
+---
 
 ### Digital Prints
 
@@ -14,6 +15,7 @@ Visit ArtStation for my [digital prints](https://www.artstation.com/figuraartlab
 Coming soon!
 
 ## Audio
+---
 
 ### Music
 
