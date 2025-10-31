@@ -6,9 +6,9 @@
 
 | Visit ArtStation for my [digital prints](https://www.artstation.com/figuraartlab/prints?print_type=art_poster)! | |
 |---|---|
-| <img src="assets/DigitalPrints/Neuron.jpg" alt="drawing" width="500"/> | <img src="assets/DigitalPrints/51415.jpg" alt="drawing" width="500"/> |
+| <img src="assets/DigitalPrints/Neuron.jpg" alt="drawing" width="400"/> | <img src="assets/DigitalPrints/51415.jpg" alt="drawing" width="500"/> |
 
-### Pen Plotter Images
+### Pen Plotter Prints
 
 Coming soon!
 
@@ -19,9 +19,9 @@ Coming soon!
 
 ### Music
 
-Creative commons made by me: https://soundcloud.com/user-890444542
+Creative commons music made by me is available [here](https://soundcloud.com/user-890444542).
 
-Coming soon!
+Coming soon to Band Camp!
 
 ## Courses
 ---
