@@ -5,6 +5,7 @@
 ### Digital Prints
 
 Visit ArtStation for my [digital prints](https://www.artstation.com/figuraartlab/prints?print_type=art_poster)!
+
 <img src="assets/DigitalPrints/DigitalPrintPreview.jpg" alt="drawing" width="1000"/>
 
 ### Pen Plotter Prints
@@ -32,6 +33,7 @@ I am creator of:
 <img src="assets/Courses/CoursePreview.jpg" alt="drawing" width="1000"/>
 
 ## Collaborations
+---
 * Digital Art
 * Motion Graphics
 * VFX
