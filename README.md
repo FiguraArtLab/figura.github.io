@@ -4,9 +4,8 @@
 
 ### Digital Prints
 
-| Visit ArtStation for my [digital prints](https://www.artstation.com/figuraartlab/prints?print_type=art_poster)! | |
-|---|---|
-| <img src="assets/DigitalPrints/Neuron.jpg" alt="drawing" width="400"/> | <img src="assets/DigitalPrints/51415.jpg" alt="drawing" width="500"/> |
+Visit ArtStation for my [digital prints](https://www.artstation.com/figuraartlab/prints?print_type=art_poster)!
+<img src="assets/DigitalPrints/DigitalPrintPreview.jpg" alt="drawing" width="1000"/>
 
 ### Pen Plotter Prints
 
@@ -30,9 +29,10 @@ I am creator of:
 * Procedural Modeling Course: https://github.com/lorentzo/ProceduralModelingLectures
 * Computer Graphics Foundations Course: https://github.com/lorentzo/IntroductionToComputerGraphics
 
-<img src="assets/Courses/r8_dn.jpg" alt="drawing" width="1000"/>
+<img src="assets/Courses/CoursePreview.jpg" alt="drawing" width="1000"/>
 
-## Services
+## Collaborations
 * Digital Art
 * Motion Graphics
 * VFX
+* CGI
